@@ -124,6 +124,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TXBILSJB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for New_Member_Project\Design Rule Check - Final_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
